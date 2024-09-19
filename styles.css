@@ -1,9 +1,14 @@
-.text {
-    display: flex;
 
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
- color: rgb(93, 0, 180);
- font-size: 48px;
-} 
+
+.contaner {
+
+}
+
+.header {
+
+}
+
+.header-title {
+    font-size: 185px;
+   color: blueviolet;
+}
