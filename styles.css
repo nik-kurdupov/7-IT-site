@@ -1,14 +1,26 @@
 
 
-.contaner {
+.container {
+    width: 1200px;
+    outline: auto;
+    border-color: goldenrod ;
+
 
 }
 
 .header {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
 
 }
 
 .header-title {
     font-size: 185px;
    color: blueviolet;
+}
+.header-text {
+
+
 }
