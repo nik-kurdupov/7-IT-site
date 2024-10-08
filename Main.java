@@ -1,3 +1,3 @@
      public class Main {
         public static  void main(String[]  args) {
-          int nam
+          int nam=5;
